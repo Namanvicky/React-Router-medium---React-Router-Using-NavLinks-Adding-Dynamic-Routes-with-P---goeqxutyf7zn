@@ -1,9 +1,6 @@
 import React from "react";
 
-
-export const Calculator = () =>{
-
-    return(
-        
-    )
-}
+const Index = () => {
+  return <div id="index-page">Index Page</div>;
+};
+export default Index;
